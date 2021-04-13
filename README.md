@@ -1,4 +1,4 @@
-# LinkedIn OAuth2 Callback
+# OAuth2 Callback (for LinkedIn)
 This creates a local OAuth2 callback so you complete a 3-leg authorization flow. Resulting in an active session token which can be used for use with LinkedIn's developer API.
 
 ## Requirements
